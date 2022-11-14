@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "some-repo-from-template-4"
+  annotations:
+    github.com/project-slug: bogdanv28/repo-from-template-4
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: bogdanv28
