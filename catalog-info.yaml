@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: bogdanv28/repo-from-template-4
     backstage.io/techdocs-ref: dir:.
-    sonarqube.org/project-key: project_from_template
+    sonarqube.org/project-key: bogdanv28_repo-from-template-4
 spec:
   type: service
   lifecycle: experimental
